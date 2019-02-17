@@ -1,0 +1,6 @@
+Terima: teks / html, aplikasi / xhtml + xml, aplikasi / xml; q = 0,9, * / *; q = 0,8
+Bahasa Terima: en-us, en; q = 0,5
+Terima-Pengkodean: gzip, deflate
+Accept-Charset: ISO-8859-1, utf-8; q = 0.7, *; q = 0.7
+Keep-Alive: 115
+Koneksi: tetap hidup
